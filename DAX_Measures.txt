@@ -1,0 +1,41 @@
+E-COMMERCE SALES & CUSTOMER ANALYSIS
+DAX MEASURES
+
+1. TOTAL SALES
+
+Total Sales represents the total sales/revenue generated from the e-commerce transactions.
+
+Measure:
+Total Sales = SUM('ecommerce_sales'[Sales])
+
+
+2. TOTAL ORDERS
+
+Total Orders represents the total number of orders in the dataset.
+
+Measure:
+Total Orders = DISTINCTCOUNT('ecommerce_sales'[Order_ID])
+
+
+3. TOTAL CUSTOMERS
+
+Total Customers represents the number of unique customers.
+
+Measure:
+Total Customers = DISTINCTCOUNT('ecommerce_sales'[Customer_ID])
+
+
+4. TOTAL QUANTITY
+
+Total Quantity represents the total quantity of products sold.
+
+Measure:
+Total Quantity = SUM('ecommerce_sales'[Quantity])
+
+
+5. AVERAGE ORDER VALUE
+
+Average Order Value represents the average sales value per order.
+
+Measure:
+Average Order Value = DIVIDE([Total Sales], [Total Orders])

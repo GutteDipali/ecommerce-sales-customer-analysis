@@ -1,0 +1,43 @@
+E-COMMERCE SALES & CUSTOMER ANALYSIS
+BUSINESS INSIGHTS
+
+1. TOP CATEGORY
+
+Electronics is the highest-selling product category.
+
+Business implication:
+The business can maintain sufficient inventory of high-performing Electronics products and use targeted promotions to support sales.
+
+2. TOP REGION
+
+South is the highest-performing sales region.
+
+Business implication:
+The business can study successful strategies in the South region and use suitable approaches in other regions.
+
+3. TOP PRODUCT
+
+Laptop is the top-selling product.
+
+Business implication:
+Laptops can be included in promotional campaigns and inventory planning based on customer demand.
+
+4. PAYMENT METHOD
+
+Credit Card is the most-used payment method.
+
+Business implication:
+The business can ensure a smooth and reliable credit-card payment experience while continuing to support other payment options.
+
+5. BEST MONTH
+
+September is the best-performing sales month.
+
+Business implication:
+The business can plan marketing campaigns, inventory, and promotional activities around periods with strong sales performance.
+
+6. OVERALL BUSINESS INSIGHT
+
+The Power BI dashboard provides a consolidated view of sales, customers, products, regions, payment methods, and time-based trends.
+
+The analysis helps identify high-performing categories, regions, products, payment methods, and sales periods that can support business planning and decision-making.

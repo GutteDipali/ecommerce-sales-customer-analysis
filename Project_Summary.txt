@@ -1,0 +1,68 @@
+E-COMMERCE SALES & CUSTOMER ANALYSIS
+
+1. PROJECT OVERVIEW
+
+E-Commerce Sales & Customer Analysis is a data analytics and business intelligence project developed using Power BI. The project analyzes e-commerce sales and customer data to identify sales trends, customer distribution, product performance, regional performance, payment methods, and business insights.
+
+2. OBJECTIVE
+
+The objective of this project is to transform e-commerce data into meaningful visual insights using an interactive Power BI dashboard and support data-driven business decisions.
+
+3. TOOLS & TECHNOLOGIES
+
+- Power BI
+- DAX
+- Microsoft Excel / CSV
+- Jira
+
+4. KEY ANALYSIS AREAS
+
+- Overall sales performance
+- Customer analysis
+- Product performance
+- Category analysis
+- Regional sales
+- Payment method analysis
+- Sales trends over time
+- Product quantity analysis
+- Business insights
+
+5. KEY DAX MEASURES
+
+- Total Sales
+- Total Orders
+- Total Customers
+- Total Quantity
+- Average Order Value
+
+6. KEY BUSINESS INSIGHTS
+
+- Electronics is the highest-selling category.
+- South is the highest-performing region.
+- Laptop is the top-selling product.
+- Credit Card is the most-used payment method.
+- September is the best-performing sales month.
+
+7. BUSINESS RECOMMENDATIONS
+
+- Promote high-performing products.
+- Plan inventory based on product demand.
+- Focus marketing activities on regional performance.
+- Use seasonal campaigns during strong sales periods.
+- Monitor payment-method preferences.
+
+8. PROJECT MANAGEMENT
+
+Jira was used for project planning, activity tracking, documentation, and project completion management.
+
+9. PROJECT OUTCOME
+
+The project demonstrates the use of Power BI and DAX to convert raw e-commerce data into interactive dashboards and actionable business insights.
+
+10. FUTURE SCOPE
+
+- Add real-time data sources.
+- Add more advanced customer segmentation.
+- Implement predictive sales analysis.
+- Add automated dashboard refresh.
+- Integrate additional business KPIs.
